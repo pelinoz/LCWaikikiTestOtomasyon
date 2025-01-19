@@ -1,4 +1,4 @@
-package tests;
+epackage tests;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Step;
@@ -45,9 +45,9 @@ public class FullFlowTest extends BaseTest {
         loginPage.hoverLogin();
         loginPage.clickLoginButton();
         Thread.sleep(2000);
-        loginPage.enterEmail("pelinoztest@outlook.com");
+        loginPage.enterEmail("username@outlook.com");
         Thread.sleep(2000);
-        loginPage.enterPassword("atf7*P6ML7P8Nr9");
+        loginPage.enterPassword("password");
     }
 
     @Step("Navigate to the desired category by interacting with the category menu")

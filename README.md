@@ -70,7 +70,7 @@ Proje bağımlılıklarını Maven yardımıyla yükleyin:
 mvn clean install
 ```
 
-#### 4. **`Test Bilgilerinin Doğru Olduğundan Emin Olun:**
+#### 4. **Test Bilgilerinin Doğru Olduğundan Emin Olun:**
 ```properties
 url=https://www.lcw.com
 browser=chrome

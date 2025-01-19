@@ -90,21 +90,16 @@ Allure raporlarını görüntülemek için aşağıdaki komutu çalıştırın:
 allure serve
 ```
 
-## Allure Raporlama
+### **Allure Raporlama**
 
-### Testlerin Başarı ve Başarısızlık Durumu
+#### **Testlerin Başarı ve Başarısızlık Durumu**
+Testlerin başarı veya başarısızlık durumu, ekran görüntüsü ile birlikte detaylı bir şekilde raporlanır.
 
-Testlerin başarı veya başarısızlık durumları, ekran görüntüsü ile birlikte detaylı olarak raporlanmaktadır. Bu sayede testlerin durumu kolayca analiz edilebilir.
+#### **Test Adımları**
+Her bir test adımı, `@Step` anotasyonu ile detaylandırılmıştır ve Allure raporlarında görsel olarak sunulur.
 
-### Test Adımları
-
-Her test adımı, `@Step` anotasyonu kullanılarak detaylandırılmıştır. Bu, test senaryolarının daha okunabilir olmasını ve adım adım izlenebilmesini sağlar.
-
-### Hata Durumları
-
-Hata durumlarında, otomatik olarak ekran görüntüsü alınır ve Allure raporuna eklenir. Bu, hataların daha hızlı teşhis edilmesini ve çözülmesini sağlar.
-
-
+#### **Hata Durumları**
+Hata durumlarında, otomatik olarak ekran görüntüsü alınır ve rapora eklenir. Bu özellik, hataların daha kolay analiz edilmesini sağlar.
 
 
 

@@ -30,7 +30,7 @@ Bu proje, **Patika.dev & LC Waikiki Yazılım Test Uzmanlığı Bootcamp**'inde 
    - Ürünler sıralanır ve kontrol edilir.
 
 4. **Ürün Seçimi ve Sepet İşlemleri**:
-   - İlk satırdaki 4. ürünün detayına gidilir.
+   - İlk satırdaki dördüncü ürünün detayına gidilir.
    - Tükenmemiş bir beden seçilir ve sepete eklenir.
 
 5. **Favorilere Ekleme ve Sepet Kontrolleri**:

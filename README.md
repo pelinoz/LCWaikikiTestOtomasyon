@@ -1,5 +1,5 @@
 
-# LC Waikiki Yazılım Test Uzmanlığı Bootcamp Bitirme Projesi
+# LC Waikiki Test Otomasyon Projesi
 
 Bu proje, **Patika.dev & LC Waikiki Yazılım Test Uzmanlığı Bootcamp**'inde verilen bitirme projesi kapsamında gerçekleştirilmiştir. Proje, bir web otomasyon testi senaryosunu içermekte ve aşağıdaki gereksinimleri karşılamaktadır.
 
